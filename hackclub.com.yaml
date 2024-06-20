@@ -2583,6 +2583,10 @@ uet:
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
+uk:
+  - ttl: 1
+    type: CNAME
+    value: cname.vercel-dns.com.
 university:
   - ttl: 600
     type: CNAME
